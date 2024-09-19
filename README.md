@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Antoine 👋</h1>
 
-<!--
-**avirgos/avirgos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm passionate about <b>scripting</b> and <b>GNU/Linux systems</b>. I'm also interested in <b>systems and network administration</b> and <b>software development</b>.</p>
 
-Here are some ideas to get you started:
+***
+#### <a href="https://antoine.virgos.fr">Check out my portfolio 💼</a>
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">[ Languages ]</h3>
+
+<div align="center"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,java,html,css,js,php,mysql"/>
+</div>
+
+<h3 align="center">[ Tools ]</h3>
+<h4 align="center">(OS / Systems and networks / Text editors / Databases / CI/CD / Other)</h4>
+
+<div align="center"> 
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,redhat,windows"/>
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible"/>
+  <img src="https://img.shields.io/badge/Wireshark-323330?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/strongSwan-323330?style=for-the-badge&logo=strongswan&logoColor=FFFFFF"/>
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,vscode"/>
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite"/>
+   <img src="https://img.shields.io/badge/mariadb-323330?style=for-the-badge&logo=mariadb&logoColor=FFFFFF"/>
+  <br />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,nginx"/>
+</div>
