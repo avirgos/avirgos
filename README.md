@@ -25,8 +25,7 @@
   <br />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vim,vscode"/>
   <br />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite"/>
-   <img src="https://img.shields.io/badge/MariaDB-C0765A?style=for-the-badge&logo=mariadb&logoColor=FFFFFF"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,mariadb"/>
   <br />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,nginx"/>
 </div>
