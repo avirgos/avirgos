@@ -13,7 +13,7 @@
 </div>
 
 <h3 align="center">[ Tools ]</h3>
-<h4 align="center">(OS / Systems and networks / Text editors / Databases / CI/CD / Other)</h4>
+<h4 align="center">(OS / Systems and networks / Text editors / Databases / CI/CD)</h4>
 
 <div align="center"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,redhat,windows"/>
