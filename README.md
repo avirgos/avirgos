@@ -10,6 +10,7 @@
 
 <div align="center"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,python,java,html,css,js,php,mysql"/>
+  <img src="https://img.shields.io/badge/uml-992B4A?style=for-the-badge&logo=uml&logoColor=FFFFFF"/>
 </div>
 
 <h3 align="center">[ Tools ]</h3>
