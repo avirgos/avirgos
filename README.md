@@ -28,5 +28,7 @@
   <br />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,mariadb"/>
   <br />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,nginx"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-2587DF?style=for-the-badge&logo=azdevops&logoColor=FFFFFF"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,nginx"/>
 </div>
