@@ -19,8 +19,7 @@
 <div align="center"> 
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,debian,redhat,windows"/>
   <br />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible"/>
-  <img src="https://img.shields.io/badge/VMware%20Workstation-000000?style=for-the-badge&logo=vmware&logoColor=FFFFFF"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ansible,vmwareworkstation"/>
   <img src="https://img.shields.io/badge/Wireshark-0098D4?style=for-the-badge&logo=wireshark&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/strongSwan-D70F37?style=for-the-badge&logo=strongswan&logoColor=FFFFFF"/>
   <br />
